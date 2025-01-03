@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const Note = require("./schemas/node");
+const Note = require("../schemas/node");
 
 class Database {
   constructor() {
